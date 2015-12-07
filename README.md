@@ -5,4 +5,4 @@
 Objective-C to Swift Converter
 
 - For Issues/Feedback/Request, [check here](https://github.com/drkameleon/iswift/issues)
-- For the Wiki *(still under construction)*, [check here](https://github.com/drkameleon/iswift/issues)
+- For the Wiki *(still under construction)*, [check here](https://github.com/drkameleon/iswift/wiki)
