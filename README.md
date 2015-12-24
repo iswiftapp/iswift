@@ -6,9 +6,13 @@
 
 ----
 
+<img src='http://issuestats.com/github/drkameleon/iswift/badge/issue?style=flat-square'/>
+
 - For Issues/Feedback/Request, [check here](https://github.com/drkameleon/iswift/issues) 
 - For the Wiki *(still under construction)*, [check here](https://github.com/drkameleon/iswift/wiki)
 
 ----
 
-<img src='http://issuestats.com/github/drkameleon/iswift/badge/issue?style=flat-square'/>
+<img src='http://www.iswift.org/iSwift-screenshot.jpg'/>
+
+
